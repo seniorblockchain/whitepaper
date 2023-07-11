@@ -69,7 +69,7 @@ Our brand logo is a creative shape that symbolizes our token, incorporating a un
 
 <p align="center">
 <a href="https://seniorblockchain.io">
-<img src="https://seniorblockchain.io/whitepaper/docs/logos.svg" style="width:100%" alt="senior blockchain"/>
+<img src="https://seniorblockchain.io/whitepaper/docs/logos.svg" style="width:70%" alt="senior blockchain"/>
 </a>
 </p>
 
@@ -97,7 +97,7 @@ These carefully chosen colors work together harmoniously to create a visually ap
 
 <p align="center">
 <a href="https://seniorblockchain.io">
-<img src="https://seniorblockchain.io/whitepaper/docs/colors.svg" style="width:100%" alt="senior blockchain"/>
+<img src="https://seniorblockchain.io/whitepaper/docs/colors.svg" style="width:70%" alt="senior blockchain"/>
 </a>
 </p>
 
@@ -107,7 +107,7 @@ In typography, we utilize the Poppins font to enhance our brand's visual identit
 
 <p align="center">
 <a href="https://seniorblockchain.io">
-<img src="https://seniorblockchain.io/whitepaper/docs/fonts.svg" style="width:100%" alt="senior blockchain"/>
+<img src="https://seniorblockchain.io/whitepaper/docs/fonts.svg" style="width:70%" alt="senior blockchain"/>
 </a>
 </p>
 
